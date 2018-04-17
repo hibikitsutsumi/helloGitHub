@@ -1,6 +1,6 @@
-number1, it will be first number
-number2, it will be second number 
-sum, it will be total 
+no1: it will be first number
+no2: it will be second number 
+sum: it will be total 
 
 Check the numbers if they are integers 
 yes - make the caluculation 
