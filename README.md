@@ -1,2 +1,2 @@
 # helloGitHub
-I am leaning programing.
+I am learning programing.
