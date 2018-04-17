@@ -6,3 +6,5 @@ Check the numbers if they are integers
 yes - make the caluculation 
     
 no - ask user to provide the number 
+
+print your total is : sum 
